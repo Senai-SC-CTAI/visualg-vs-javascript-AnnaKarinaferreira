@@ -1,0 +1,87 @@
+html{
+    height: auto;
+}
+
+#centro{
+    width: 500px;
+    height: 50%;
+    margin: auto;
+    margin-top: 15%;
+}
+
+body{
+    
+    background: #737f89;
+}
+
+p{
+    font-style: italic;
+    color: #eee;
+    font-size: 30px;
+
+}
+
+#enviar{
+    width: 100px;
+    height: 30px;
+    border-radius: 15px;
+    border: 0px;
+    animation: ease-in-out;
+    transition: 0.5s;
+    background-color: #443366;
+    color: #eee;
+    box-shadow: 3px 3px 5px black;
+}
+
+img{
+    border: solid;
+    border-width: 10px;
+    border-color: #436;
+    border-radius: 20px;
+}
+
+#enviar:hover{
+    background-color: #547;
+    color: #fff;
+}
+
+#enviar:active{
+    transition: 0.2s;
+    background-color: #436;
+    color: #eee;
+}
+
+#population{
+    height: 25px;
+    border-radius: 15px;
+    text-align: center;
+    border: 0px;
+    box-shadow: 3px 3px 5px black;
+}
+
+#teste{
+    color: beige;
+    font-size: 20px;
+    font-style: italic;
+} 
+
+h5{
+    text-align: start;
+    position: relative;
+    left: 250px;
+    font-size: 20px;
+    font-style: italic;
+    color: beige;
+}
+fieldset{
+    color: #eee;
+    border-radius: 20px;
+}
+
+input{
+    height: 25px;
+    border-radius: 15px;
+    text-align: center;
+    border: 0px;
+    box-shadow: 3px 3px 5px black;
+}
